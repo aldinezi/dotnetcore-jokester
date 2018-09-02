@@ -1,5 +1,32 @@
 ﻿@page "/about"
 
-<h1>Hello, world!</h1>
+<h1># dotnetcore-jokester</h1>
 
-Welcome to your new app.
+<p>
+    Jokester app built entirely using blazor dotnet core framework, relaying on chucknorris jokes api.
+</p>
+<p>
+<a href="https://blazor.net/" target="_blank">Blazor framework</a><br>
+<a href="https://api.chucknorris.io/" target="_blank">Chuck Norris Jokes API</a>
+</p>
+
+<hr>
+<p>
+To test locally, install dotnetcore sdk 2.1.401 and build tools.
+</p>
+
+<code>
+git clone https://github.com/aldinezi/dotnetcore-jokester.git
+</code><br>
+# restore package<br>
+<code>
+dotnet restore
+</code><br>
+# serve with hot reload at localhost:5000<br>
+<code>
+dotnet watch run
+</code><br>
+# build for production with minification<br>
+<code>
+dotnet publish -c Release
+</code>
