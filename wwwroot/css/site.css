@@ -110,6 +110,10 @@ app {
     .main .top-row {
         display: none;
     }
+
+    .btn-toolbar>div {
+        margin-bottom: 0.5rem;
+    }
 }
 
 @media (min-width: 768px) {
