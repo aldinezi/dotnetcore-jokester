@@ -2,12 +2,12 @@
 
 Jokester app built entirely using blazor dotnet core framework, relaying on chucknorris jokes api.
 
->Demo at http://aldinezi.tech/blazorapp
+>Demo at <http://aldinezi.tech/blazorapp>
 
-https://blazor.net/
-https://api.chucknorris.io/
+<https://blazor.net/>
+<https://api.chucknorris.io/>
 
-To test locally, install dotnetcore sdk 2.1.401 and build tools.
+To test locally, install dotnetcore sdk newer than 2.1.401 and build tools.
 
 ``` bash
 git clone https://github.com/aldinezi/dotnetcore-jokester.git`
