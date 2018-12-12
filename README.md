@@ -2,7 +2,7 @@
 
 Jokester app built entirely using blazor dotnet core framework, relaying on chucknorris jokes api.
 
->Demo at <http://dotnetcore-jokester.aldinezi.tech/>
+>Demo at <http://dotnetcore-jokester.aldinezi.info/>
 
 <https://blazor.net/>
 <https://api.chucknorris.io/>
